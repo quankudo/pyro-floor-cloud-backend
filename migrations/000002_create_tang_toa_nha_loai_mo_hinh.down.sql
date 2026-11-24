@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS tang;
+DROP TABLE IF EXISTS toa_nha;
+DROP TABLE IF EXISTS loai_mo_hinh;

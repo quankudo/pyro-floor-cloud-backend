@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS cam_bien;
+DROP TABLE IF EXISTS thiet_bi;
+DROP TABLE IF EXISTS canh_bao;
